@@ -1,0 +1,129 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background: #fff; */
+  }
+  nav{
+ background-color: rgba(0,0,0,0.5) !important;
+  }
+
+
+  .container {
+    padding: 20px;
+  }
+  /* .about .section-title {
+    margin-bottom: 60px;
+  }
+  
+  .about .content {
+    background: var(--accent-color);
+    color: var(--contrast-color);
+    padding: 7rem 0;
+  }
+  
+  .about .content .img-overlap {
+    margin-top: -150px;
+  }
+  
+  .about p {
+    color: var(--contrast-color);
+  }
+  
+  .about .content-title {
+    color: var(--contrast-color);
+    font-weight: 300;
+    text-align: left;
+  }
+  
+  .about .content-title strong {
+    font-weight: 700;
+  }
+  
+  .about .content-subtitle {
+    font-weight: 300;
+    color: var(--contrast-color);
+    text-transform: uppercase;
+    font-size: 1.3rem;
+  } */
+  /* .scroll-top {
+    position: fixed;
+    visibility: hidden;
+    opacity: 0;
+    right: 15px;
+    bottom: 15px;
+    z-index: 99999;
+    background-color: var(--accent-color);
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    transition: all 0.4s;
+  }
+  
+  .scroll-top i {
+    font-size: 24px;
+    color: var(--contrast-color);
+    line-height: 0;
+  }
+  
+  .scroll-top:hover {
+    background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+    color: var(--contrast-color);
+  }
+  
+  .scroll-top.active {
+    visibility: visible;
+    opacity: 1;
+  } */
+  /* #preloader {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    overflow: hidden;
+    background: var(--background-color);
+    transition: all 0.6s ease-out;
+  }
+  
+  #preloader:before {
+    content: "";
+    position: fixed;
+    top: calc(50% - 30px);
+    left: calc(50% - 30px);
+    border: 6px solid #ffffff;
+    border-color: var(--accent-color) transparent var(--accent-color) transparent;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: animate-preloader 1.5s linear infinite;
+  } */
+   /* Preloader Styles */
+   .scroll-top {
+    position: fixed;
+    visibility: hidden;
+    opacity: 0;
+    right: 15px;
+    bottom: 15px;
+    z-index: 99999;
+    background-color: var(--accent-color);
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    transition: all 0.4s;
+  }
+  
+  .scroll-top i {
+    font-size: 24px;
+    color: var(--contrast-color);
+    line-height: 0;
+  }
+  
+  .scroll-top:hover {
+    background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+    color: var(--contrast-color);
+  }
+  
+  .scroll-top.active {
+    visibility: visible;
+    opacity: 1;
+  }
